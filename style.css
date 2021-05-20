@@ -113,6 +113,7 @@
     background-image: url("banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
+     padding-bottom: 2%;
 }
 .contact
 {
